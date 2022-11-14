@@ -2,7 +2,7 @@ package com.dkit.oop;
 
 /**
  * Abstract class Shape
- * oop-abstract-class-shape
+ * 
  */
 public class App
 {

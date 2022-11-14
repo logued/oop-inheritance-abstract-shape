@@ -1,6 +1,7 @@
 package com.dkit.oop;
 //TODO
-// change Rectangle declaration so that Rectangle inherits from Shape
+// Study the Circle class before attempting these TODOs.
+// Change Rectangle declaration so that Rectangle inherits from Shape
 
 public class Rectangle {
 

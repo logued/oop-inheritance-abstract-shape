@@ -12,7 +12,7 @@ public class Circle extends Shape {
     private int radius;
 
     public Circle(int x, int y, int radius) {
-        super(x, y); //calls the superclass constructor
+        super(x, y); //calls the Shape superclass constructor
         this.radius = radius;
     }
 
