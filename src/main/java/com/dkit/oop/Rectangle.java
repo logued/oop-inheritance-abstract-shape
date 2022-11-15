@@ -7,7 +7,5 @@ public class Rectangle {
 
     //TODO
     // Rectangle requires fields 'width' and 'height'.
-    // implement toString() and getters/setters.
-    // area() must be implemented. and draw()
-
+    // Implement toString(), getters/setters area() and draw()
 }
