@@ -54,6 +54,8 @@ public abstract class Shape {
     public abstract double area();   // no method body is allowed in an abstract method
 
 
+    public abstract void draw();
+
     // Methods common to all Shape objects.
     // These will be inherited by all subclasses.
 

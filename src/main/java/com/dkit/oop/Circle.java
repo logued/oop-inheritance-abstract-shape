@@ -26,7 +26,10 @@ public class Circle extends Shape {
     public double area() {
         return Math.PI * this.radius * this.radius;
     }
-
+    @Override
+    public void draw() {
+        System.out.println("Code to draw a Circle has been called...");
+    }
     public int getRadius() {
         return radius;
     }
